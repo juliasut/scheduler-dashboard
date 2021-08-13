@@ -1,4 +1,5 @@
 # Interview Scheduler Dashboard
+Real time dashboard for scheduler [https://github.com/juliasut/scheduler.git]
 
 ## Setup
 
